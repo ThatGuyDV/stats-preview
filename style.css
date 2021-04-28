@@ -69,7 +69,7 @@ h1 span {
     height: fit-content;
 }
 
-@media only screen and (min-width: 375px){
+@media only screen and (max-width: 375px){
     .card{
         display: flex;
         flex-direction: column-reverse;
